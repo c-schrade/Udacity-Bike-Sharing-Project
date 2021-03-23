@@ -17,7 +17,7 @@ and back-propagation is implemented directly without the usage of any deeplearni
 
 The network has one fully connected hidden layer and one fully connected output layer.
 
-*Number of hidden nodes: 20
-*Number of output nodes: 1
-*Learning rate: 0.6
-*Number of training iterations: 4000
+* Number of hidden nodes: 20
+* Number of output nodes: 1
+* Learning rate: 0.6
+* Number of training iterations: 4000
