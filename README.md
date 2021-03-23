@@ -13,3 +13,11 @@ The idea is to attack this task by training a fully connected neural network fee
 of bike-sharing user behaviour. The neural network is built by hand completely. This means that the forward- 
 and back-propagation is implemented directly without the usage of any deeplearning library. 
 
+## Architecture of the model and hyperparameters
+
+The network has one fully connected hidden layer and one fully connected output layer.
+
+*Number of hidden nodes: 20
+*Number of output nodes: 1
+*Learning rate: 0.6
+*Number of training iterations: 4000
